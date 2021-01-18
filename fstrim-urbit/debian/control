@@ -1,0 +1,9 @@
+Source: fstrim-urbit
+Section: custom
+Priority: optional
+Build-Depends: debhelper-compat (= 12)
+Maintainer: ~botter-nidnul <botter-nidnul@protonmail.com>
+
+Package: fstrim-urbit
+Architecture: all
+Description: Run fstrim daily for Urbit
