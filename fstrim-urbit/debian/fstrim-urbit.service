@@ -5,4 +5,3 @@ Documentation=man:fstrim(8)
 [Service]
 Type=oneshot
 ExecStart=/sbin/fstrim -Av
-
